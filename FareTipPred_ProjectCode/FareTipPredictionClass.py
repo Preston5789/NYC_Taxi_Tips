@@ -1,7 +1,6 @@
 
 """
-Created on Sun Dec 17 23:38:59 2017
-@author: Vaishnavi
+@author: Preston Phillips
 """
 import pandas as pd
 import numpy as np
