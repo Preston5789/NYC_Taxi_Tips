@@ -1,7 +1,6 @@
 
 """
-Created on Sun Dec 17 23:38:59 2017
-@author: Vaishnavi
+@author: Preston Phillips
 """
 # importing the analysis part from the FareTipPredictionClass file
 from FareTipPredictionClass import FareTipPrediction
